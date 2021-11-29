@@ -1,0 +1,2 @@
+# MyRust
+Rust inspiration tips
