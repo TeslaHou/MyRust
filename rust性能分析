@@ -1,0 +1,8 @@
+
+cargo build --release   // 先编译项目
+
+cargo install flamegraph  // 安装性能分析的库
+
+sudo cargo flamegraph --bin MyProject -o MyAnalysisResults.svg   // 将分析结果生成svg图
+
+
